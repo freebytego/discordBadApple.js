@@ -19,3 +19,6 @@ Run bot using
 node index.js
 ```
 Use command *^badapple* to start the show!
+
+Also, it is set to 7000 frames in total.
+Check index.js and change it to your total frames amount!
