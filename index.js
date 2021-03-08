@@ -49,7 +49,7 @@ client.on('message', async message => {
         if (!message.content.startsWith(prefix) || message.author.bot) return;
         const arguments = message.content.slice(prefix.length).trim().split(" ");
 		const command = arguments.shift().toLowerCase();
-        if (command == "badapple_weebyte") {
+        if (command == "badapple") {
             let wasCreated = false;
             let msg;
             for (let index = 0; index < 7000; index += 4) {
