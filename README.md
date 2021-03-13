@@ -4,7 +4,7 @@ Bad Apple in Discord Messages using Javascript and Discord.js
 ## Usage:
 You need to install discord.js and Jimp
 ```
-npm install Jimp
+npm install jimp
 npm install discord.js
 ```
 Next, edit **discord.json**:
